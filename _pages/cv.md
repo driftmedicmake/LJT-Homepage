@@ -11,54 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science** (2024-Present), Hong Kong University of Science and Technology
+  * Research Group: HKUST NLP Group
+  * Supervisor: Professor Junxian He
 
-Work experience
+* **B.Eng.** (2020-2024), Shanghai Jiao Tong University
+  * Zhiyuan Honor Scholarship
+
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, MINIMAX (February 2025 - Present)
+  * Conducting research on natural language processing and large language models
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research Intern**, Tencent WXG (June 2024 - September 2024)
+  * Conducted research under the supervision of Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
+  * Conducted research under the supervision of Professor Yu Cheng
+
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+* Machine Learning
+* LLM Reasoning and Reinforcement Learning
+* Hallucination in Vision-Language Models
+* LLM Truthfulness and Interpretability
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for conferences and journals in natural language processing and machine learning
